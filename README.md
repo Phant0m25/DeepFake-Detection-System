@@ -14,6 +14,7 @@ Requirements:
 4) OpenCV2 
 5) Matplotlib
 Video dataset from Kaggle- https://www.kaggle.com/code/krooz0/deep-fake-detection-on-images-and-videos/input?select= https://www.kaggle.com/code/krooz0/deep-fake-detection-on-images-and-videos/input?select=train_sample_videos
+
 Steps to run the program:
 
 1) Install the required softwares and packages in your prefered python compiler.
